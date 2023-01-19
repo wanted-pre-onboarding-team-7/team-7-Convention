@@ -16,6 +16,6 @@
 ### 📄 week2. 이슈트래킹 프로젝트 컨벤션
 - [week2 컨벤션 링크](https://github.com/wanted-pre-onboarding-team-7/team-7-Convention/wiki/%5Bweek2%5D-%EC%BB%A8%EB%B2%A4%EC%85%98)
 
-### 📄 week3. 이슈트래킹 프로젝트 컨벤션
+### 📄 week3. 
 - [week3 컨벤션 링크](https://github.com/wanted-pre-onboarding-team-7/team-7-Convention-/wiki/%5Bweek3%5D-%EC%BB%A8%EB%B2%A4%EC%85%98)
 
